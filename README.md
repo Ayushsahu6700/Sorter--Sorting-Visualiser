@@ -1,8 +1,8 @@
 # sorter
 
 A new Flutter project.
-![Screenshot from 2022-12-02 00-50-40](https://user-images.githubusercontent.com/54814827/205070044-41786268-8cd9-473d-90a0-b82a28391a19.png)
 
+![Screenshot from 2022-12-02 00-50-40](https://user-images.githubusercontent.com/54814827/205070261-b6dfc511-33d5-41a3-b7ff-2576b7988d17.png)
 
 
 ## Getting Started
